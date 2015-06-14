@@ -1,9 +1,9 @@
 [
  {
    "remote":	 	    "gh",
-   "repository": 	    "AD5GB/android_kernel_google_msm",
-   "target_path": 	    "kernel/google/msm",
-   "branch":		    "cm-12.1"
+   "repository": 	    "SlimRoms/kernel_google_flo",
+   "target_path": 	 "kernel/google/msm",
+   "branch":		    "lp5.1"
  },
  {
    "remote":            "gh",
