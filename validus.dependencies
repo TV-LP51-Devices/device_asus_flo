@@ -1,9 +1,9 @@
 [
  {
-   "remote":	 	    "gh",
-   "repository": 	    "SlimRoms/kernel_google_flo",
+   "remote":	 	 "gh",
+   "repository": 	 "CyanogenMod/android_kernel_google_msm",
    "target_path": 	 "kernel/google/msm",
-   "branch":		    "lp5.1"
+   "branch":		 "cm-12.1"
  },
  {
    "remote":            "gh",
